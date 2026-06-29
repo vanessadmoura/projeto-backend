@@ -8,7 +8,7 @@ A API permite cadastro e autenticação de usuários, gerenciamento de produtos,
 
 ## Evidências do Projeto
 
-- Repositório GitHub: `<INSERIR_LINK_PUBLICO_DO_REPOSITORIO>`
+- Repositório GitHub: `https://github.com/vanessadmoura/projeto-backend`
 - Swagger local: `http://127.0.0.1:5000/apidocs`
 - Collection Postman: `postman/API_Raizes_do_Nordeste.postman_collection.json`
 - Environment Postman: `postman/API_Raizes_do_Nordeste.postman_environment.json`
@@ -146,7 +146,7 @@ O status `EM_PREPARO` é definido automaticamente quando o pagamento mock é apr
 ### 1. Clonar o repositório
 
 ```bash
-git clone <INSERIR_LINK_PUBLICO_DO_REPOSITORIO>
+git clone https://github.com/vanessadmoura/projeto-backend
 cd projeto-backend
 ```
 
